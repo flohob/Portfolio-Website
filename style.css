@@ -197,7 +197,7 @@ section {
 }
 
 .title {
-  font-size: 3rem;
+  font-size: 4rem;
   text-align: center;
 }
 
@@ -374,6 +374,8 @@ article .icon {
   border-radius: 2rem;
   width: 300px;
   height: 300px;
+  object-fit: scale-down;
+  border-radius: 20px;
 }
 
 .project-title {
